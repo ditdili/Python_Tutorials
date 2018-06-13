@@ -10,4 +10,5 @@ This repository contains jupyter notebooks of python tutorials that I post on [c
 
 ### Pandas - Tips and Tricks
 
-* [df.loc, df.iloc](http://codewithmax.com/2018/02/27/pandas-tips-and-tricks-df-loc-df-iloc/) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Python_Tutorials/blob/master/notebooks/Pandas-Tips_and_Tricks-loc-iloc.ipynb)
+* [df.loc, df.iloc](http://codewithmax.com/2018/02/27/pandas-tips-and-tricks-df-loc-df-iloc/) - [GitHub](https://github.com/ditdili/Python_Tutorials/blob/master/notebooks/Pandas-Tips_and_Tricks-loc-iloc.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Python_Tutorials/blob/master/notebooks/Pandas-Tips_and_Tricks-loc-iloc.ipynb)
+* [df.merge - Inner, Left, Right, and Full Join]() - [GitHub](https://github.com/ditdili/Python_Tutorials/blob/master/notebooks/Pandas-Tips_and_Tricks-Merge-Inner_Left_Right_Full_Joins.ipynb) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Python_Tutorials/blob/master/notebooks/Pandas-Tips_and_Tricks-Merge-Inner_Left_Right_Full_Joins.ipynb)
